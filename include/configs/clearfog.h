@@ -27,6 +27,7 @@
 #define CONFIG_SYS_NO_FLASH		/* Declare no flash (NOR/SPI) */
 #define CONFIG_CMD_ENV
 #define CONFIG_CMD_PCI
+#define CONFIG_TFTP_PORT
 
 /* I2C */
 #define CONFIG_SYS_I2C
